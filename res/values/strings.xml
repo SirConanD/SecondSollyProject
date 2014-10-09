@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Second Solly Project</string>
+    <string name="funny"/>
+    <string name="other">some words need to go here</string>
+    <string name="sillyString">Silly String but not from a can.</string>
+
+</resources>
