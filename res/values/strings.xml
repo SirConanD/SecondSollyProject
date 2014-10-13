@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <string name="app_name">Second Solly Project</string>
+    <string name="app_name">Second Silly Project</string>
     <string name="funny"/>
     <string name="other">some words need to go here</string>
     <string name="sillyString">Silly String but not from a can.</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="serious">This button does absolutlly nothing.</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="secondSerious">Why are you still pushing this button. </string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="prompt">Push Me!</string>
 
 </resources>

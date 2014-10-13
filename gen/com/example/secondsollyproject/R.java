@@ -1127,6 +1127,7 @@ containing a value of this type.
         public static final int search_plate=0x7f050036;
         public static final int search_src_text=0x7f050037;
         public static final int search_voice_btn=0x7f05003b;
+        public static final int secondbutton=0x7f05003f;
         public static final int shortcut=0x7f05002e;
         public static final int showCustom=0x7f050007;
         public static final int showHome=0x7f050004;
@@ -1237,6 +1238,9 @@ containing a value of this type.
         public static final int app_name=0x7f0a000d;
         public static final int funny=0x7f0a000e;
         public static final int other=0x7f0a000f;
+        public static final int prompt=0x7f0a0013;
+        public static final int secondSerious=0x7f0a0012;
+        public static final int serious=0x7f0a0011;
         public static final int sillyString=0x7f0a0010;
     }
     public static final class style {

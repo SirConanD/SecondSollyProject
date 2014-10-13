@@ -289,6 +289,7 @@ int id search_mag_icon 0x7f050035
 int id search_plate 0x7f050036
 int id search_src_text 0x7f050037
 int id search_voice_btn 0x7f05003b
+int id secondbutton 0x7f05003f
 int id shortcut 0x7f05002e
 int id showCustom 0x7f050007
 int id showHome 0x7f050004
@@ -344,6 +345,9 @@ int string abc_shareactionprovider_share_with_application 0x7f0a000b
 int string app_name 0x7f0a000d
 int string funny 0x7f0a000e
 int string other 0x7f0a000f
+int string prompt 0x7f0a0013
+int string secondSerious 0x7f0a0012
+int string serious 0x7f0a0011
 int string sillyString 0x7f0a0010
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c
