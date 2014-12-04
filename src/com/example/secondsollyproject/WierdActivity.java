@@ -46,6 +46,10 @@ public class WierdActivity extends Activity
 		colorList.add(R.color.black);
 		colorList.add(R.color.prettyPurple);
 		colorList.add(R.color.deepRed);
+		colorList.add(R.color.uglyBrown);
+		colorList.add(R.color.white);
+		colorList.add(R.color.orange);
+		colorList.add(R.color.lightishRed);
 	}
 	
 	private void setUpListeners()

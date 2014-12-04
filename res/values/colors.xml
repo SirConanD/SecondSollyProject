@@ -5,5 +5,7 @@
     <color name="black">#000000</color>
     <color name="prettyPurple">#b312c1</color>
     <color name="deepRed">#800000</color>
+    <color name="orange">#ff4d00</color>
+    <color name="lightishRed">#bb6d93</color>
     
 </resources>
